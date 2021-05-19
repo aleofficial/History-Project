@@ -1,0 +1,42 @@
+body{
+    background-size:cover   
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    height:800px;
+    background-size:cover;
+    background-position: center;
+}
+}
+.Img-Evidence{
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+}
+.Img-Ma{   
+    width: 300px;  
+    height: 200px;
+    background-size: cover;
+}
+
+.Img-Conclusion{
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+}
+.title{
+    position:absolute;
+    top: 60%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-size:xx-large;
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:azure;
+}
+p{
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+}
+

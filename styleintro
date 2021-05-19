@@ -1,0 +1,27 @@
+{
+    margin:1;
+    padding:1;
+    font-family: century; Gothic;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image5.jpg);
+    height:100px;
+    background-size: cover;
+    background-position: center;
+}
+.title{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-size:xxx-large;
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:azure;
+}
+}
+.titleh1{
+    color:rgb(255, 255, 255);
+    font: 200px;
+    font-family:Arial, Helvetica, sans-serif
+}

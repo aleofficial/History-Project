@@ -1,0 +1,25 @@
+body{
+    background-size:cover   
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    height:800px;
+    background-size:cover;
+    background-position: center;
+}
+.title{
+    position:absolute;
+    top: 60%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-size:xx-large;
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:azure;
+}
+p{
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+
+}
